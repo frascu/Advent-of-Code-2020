@@ -23,7 +23,7 @@ import java.util.*;
  */
 public class Day01 {
 
-    private static final String INPUT_FILE_PATH = "input/day01-input.txt";
+    private static final String INPUT_FILE_PATH = "input/day01.txt";
 
     public static void main(String[] args) {
         System.out.println("------ day 01 ------");
