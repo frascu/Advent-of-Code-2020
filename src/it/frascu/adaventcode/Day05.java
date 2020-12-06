@@ -2,11 +2,7 @@ package it.frascu.adaventcode;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.nio.file.Files;
 import java.util.*;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 /**
  * --- Day 5: Binary Boarding ---
