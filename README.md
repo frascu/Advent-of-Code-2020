@@ -8,4 +8,6 @@
 |  4  | [Passport Processing](https://adventofcode.com/2020/day/4)  | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day04.java](src/it/frascu/adaventcode/Day04.java)  |
 |  5  | [Binary Boarding](https://adventofcode.com/2020/day/5)      | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day05.java](src/it/frascu/adaventcode/Day05.java)  |
 |  6  | [Custom Customs](https://adventofcode.com/2020/day/6 )      | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day06.java](src/it/frascu/adaventcode/Day06.java)  |
-|  7  | :arrows_counterclockwise:                                   |  :arrows_counterclockwise:|  :arrows_counterclockwise: |  :arrows_counterclockwise:                                                                                   |
+|  7  | :arrows_counterclockwise:                                   | :arrows_counterclockwise: | :arrows_counterclockwise:  |  :arrows_counterclockwise:                           |
+|  8  | [Handheld Halting](https://adventofcode.com/2020/day/8 )    | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day08.java](src/it/frascu/adaventcode/Day08.java)  |
+|  9  | :arrows_counterclockwise:                                   | :arrows_counterclockwise: | :arrows_counterclockwise:  |  :arrows_counterclockwise:                           |
