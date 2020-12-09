@@ -10,4 +10,5 @@
 |  6  | [Custom Customs](https://adventofcode.com/2020/day/6 )      | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day06.java](src/it/frascu/adaventcode/Day06.java)  |
 |  7  | :arrows_counterclockwise:                                   | :arrows_counterclockwise: | :arrows_counterclockwise:  |  :arrows_counterclockwise:                           |
 |  8  | [Handheld Halting](https://adventofcode.com/2020/day/8 )    | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day08.java](src/it/frascu/adaventcode/Day08.java)  |
-|  9  | :arrows_counterclockwise:                                   | :arrows_counterclockwise: | :arrows_counterclockwise:  |  :arrows_counterclockwise:                           |
+|  9  | [Encoding Error](https://adventofcode.com/2020/day/9 )      | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day09.java](src/it/frascu/adaventcode/Day09.java)  |
+| 10  | :arrows_counterclockwise:                                   | :arrows_counterclockwise: | :arrows_counterclockwise:  |  :arrows_counterclockwise:                           |
