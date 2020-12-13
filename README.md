@@ -11,4 +11,8 @@
 |  7  | [Handy Haversacks](https://adventofcode.com/2020/day/7)     | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
 |  8  | [Handheld Halting](https://adventofcode.com/2020/day/8 )    | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day08.java](src/it/frascu/adaventcode/Day08.java)  |
 |  9  | [Encoding Error](https://adventofcode.com/2020/day/9 )      | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day09.java](src/it/frascu/adaventcode/Day09.java)  |
-| 10  | :arrows_counterclockwise:                                   | :arrows_counterclockwise: | :arrows_counterclockwise:  |  :arrows_counterclockwise:                           |
+| 10  | [Adapter Array](https://adventofcode.com/2020/day/10)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 11  | [Seating System](https://adventofcode.com/2020/day/11)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 12  | [Rain Risk](https://adventofcode.com/2020/day/12)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 13  | [Shuttle Search](https://adventofcode.com/2020/day/13)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 14  | :arrows_counterclockwise:|:arrows_counterclockwise:|:arrows_counterclockwise:|:arrows_counterclockwise:|
