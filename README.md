@@ -1,5 +1,7 @@
 # Advent of Code 2020
-
+[Advend of Code](https://adventofcode.com/2020) is a programming event in which every day from 1st to 25th December a problem is published in order to be solved.</br>
+I partecipated and I solved 8. Unfortunately, the other days I had no opportunity to spend time for this competition.</br>
+In the following table you can find the problems and my solutions.
 | Day | Problem  |  Part One |  Part Two |  Solution  |
 |--: |:-:|:-:|:-:|:-:|
 |  1  | [Report Repair](https://adventofcode.com/2020/day/1)        | :heavy_check_mark: Solved | :heavy_check_mark: Solved  |  [Day01.java](src/it/frascu/adaventcode/Day01.java)  |
@@ -15,4 +17,11 @@
 | 11  | [Seating System](https://adventofcode.com/2020/day/11)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
 | 12  | [Rain Risk](https://adventofcode.com/2020/day/12)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
 | 13  | [Shuttle Search](https://adventofcode.com/2020/day/13)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
-| 14  | :arrows_counterclockwise:|:arrows_counterclockwise:|:arrows_counterclockwise:|:arrows_counterclockwise:|
+| 14  | [Docking Data](https://adventofcode.com/2020/day/14)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 15  | [Rambunctious Recitation](https://adventofcode.com/2020/day/15)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 16  | [Ticket Translation](https://adventofcode.com/2020/day/16)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 17  | [Conway Cubes](https://adventofcode.com/2020/day/17)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 18  | [Operation Order](https://adventofcode.com/2020/day/18)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 19  | [Monster Messages](https://adventofcode.com/2020/day/18)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 20  | :arrows_counterclockwise:|:arrows_counterclockwise:|:arrows_counterclockwise:|:arrows_counterclockwise:|
+
