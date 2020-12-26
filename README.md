@@ -22,6 +22,11 @@ In the following table you can find the problems and my solutions.
 | 16  | [Ticket Translation](https://adventofcode.com/2020/day/16)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
 | 17  | [Conway Cubes](https://adventofcode.com/2020/day/17)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
 | 18  | [Operation Order](https://adventofcode.com/2020/day/18)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
-| 19  | [Monster Messages](https://adventofcode.com/2020/day/18)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
-| 20  | :arrows_counterclockwise:|:arrows_counterclockwise:|:arrows_counterclockwise:|:arrows_counterclockwise:|
+| 19  | [Monster Messages](https://adventofcode.com/2020/day/19)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 20  | [Jurassic Jigsaw](https://adventofcode.com/2020/day/20)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 21  | [Allergen Assessment](https://adventofcode.com/2020/day/21)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 22  | [Crab Combat](https://adventofcode.com/2020/day/22)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 23  | [Crab Cups](https://adventofcode.com/2020/day/23)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 24  | [Lobby Layout](https://adventofcode.com/2020/day/24)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
+| 25  | [Combo Breaker](https://adventofcode.com/2020/day/25)       | :runner: Missed           | :runner: Missed            |  :runner: Missed           |
 
